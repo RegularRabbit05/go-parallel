@@ -1,3 +1,3 @@
-module github.com/dgravesa/go-parallel
+module github.com/RegularRabbit05/go-parallel
 
 go 1.14
